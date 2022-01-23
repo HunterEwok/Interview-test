@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ewok/.dotnet/store/|arch|/|tfm|",
+      "/Users/ewok/.nuget/packages"
+    ]
+  }
+}
