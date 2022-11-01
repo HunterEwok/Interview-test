@@ -3,7 +3,7 @@
     <Files>
       <File FileName="TestTheRest/Startup.cs" Line="21" Column="13" />
       <File FileName="TestTheRest/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="TestTheRest/Program.cs" Line="24" Column="51" />
+      <File FileName="TestTheRest/Program.cs" />
       <File FileName="TestTheRest/Models/Route.cs" />
       <File FileName="TestTheRest/Models/Airport.cs" />
       <File FileName="TestTheRest/Models/ResultRoute.cs" />
